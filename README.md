@@ -17,6 +17,7 @@
 ## 如何开始  ##
 1.安装必要的环境，诸如python3+,selenium  
 2.下载合适的浏览器驱动，并放置在/tools文件夹下  
+[Chrome](http://chromedriver.storage.googleapis.com/index.html) [Firefox](https://github.com/mozilla/geckodriver/releases) [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)  
 3.使用终端进入项目根目录，运行以下命令  
 python TestRunner.py  
 
