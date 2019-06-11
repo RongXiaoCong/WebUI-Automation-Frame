@@ -12,7 +12,7 @@ class BrowserEngine(object):
 
     def __init__(self, driver):
         self.driver = driver
-        self.dir = os.path.dirname(os.path.abspath('.'))  # 注意相对路径获取方法
+        self.dir = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))  # 注意相对路径获取方法
         # windows的驱动程序后缀有exe
         self.chrome_driver_path = self.dir + '/tools/chromedriver.exe'
         # mac的驱动程序后缀无exe

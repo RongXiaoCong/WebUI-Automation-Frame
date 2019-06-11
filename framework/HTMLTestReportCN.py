@@ -1257,7 +1257,7 @@ class HTMLTestRunner(Template_mixin):
 class DirAndFiles(object):
 
     def __init__(self):
-        self.path = "../test_report/"
+        self.path = os.path.join(os.path.dirname(os.path.dirname(__file__)),"test_report/")
         self.title = "Test Report"
 
     def create_dir(self, title=None):

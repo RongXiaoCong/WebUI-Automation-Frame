@@ -42,6 +42,8 @@ class Index(unittest.TestCase):
         self.bd.click(self.bd.b_search)
         # 验证是否成功搜索到搜索结果的元素
         self.assertTrue(self.bd.wait(self.bd.t_search_result))
+        print(self.bd.get_current_function())
+        logger.info(self.bd.get_current_function() + ' --> Successed')
 
     def test_02_search_retry(self):
         """重新搜索"""
@@ -52,5 +54,5 @@ class Index(unittest.TestCase):
         self.bd.wait_text_gone(self.bd.b_result_title, title_1, None, displayed=False)
         title_2 = [element.text for element in self.bd.find_element(self.bd.b_result_title, None, displayed=False)]
         logger.info(title_2)
-
+        logger.info(self.bd.get_current_function() + ' --> Successed')
 

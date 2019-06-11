@@ -15,7 +15,7 @@ class CaseStrategy:
 			for case in suite:
 				cases.addTest(case)
 
-	def collect_cases(self, suite=False):
+	def collect_cases(self, suite=True):
 		"""collect cases
 
 		collect cases from the giving path by case_path via the giving pattern by case_pattern
@@ -27,11 +27,12 @@ class CaseStrategy:
 
 		if suite:
 			test_suites = []
-			for file in os.listdir('.'):
+			project_dir = os.path.dirname(os.path.dirname(__file__))
+			for file in os.listdir(project_dir):
 				if self.suite_path in file:
-					if os.path.isdir(file):
-						test_suites.append(file)
-
+					suites_dir = os.path.join(project_dir,file)
+					if os.path.isdir(suites_dir):
+						test_suites.append(suites_dir)
 			for test_suite in test_suites:
 				self._collect_cases(cases, top_dir=test_suite)
 		else:

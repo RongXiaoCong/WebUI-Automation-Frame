@@ -50,3 +50,4 @@ class News(unittest.TestCase):
                 self.assertNotEqual(title, self.news.title)
         self.news.close()
         self.driver.switch_to.window(origin_handle)
+        logger.info(self.news.get_current_function() + ' --> Successed')

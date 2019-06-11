@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 from configparser import ConfigParser
 import os
-
+import sys
 # 配置文件路径
-configPath = os.path.dirname(os.path.abspath('.')) + '/config/config.ini'
+configPath = os.path.join(os.path.dirname(os.path.dirname(__file__)) , 'config/config.ini')
 
 class ReadConfig:
 	def __init__(self):

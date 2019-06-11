@@ -1,0 +1,43 @@
+2019-06-12 01:35:08,124 - BrowserEngine - INFO - Starting Chrome browser.
+2019-06-12 01:35:12,535 - BrowserEngine - INFO - Open url: http://www.baidu.com/
+2019-06-12 01:35:12,535 - BrowserEngine - INFO - Maximize the current window.
+2019-06-12 01:35:12,538 - BrowserEngine - INFO - Set implicitly wait 2 seconds.
+2019-06-12 01:35:12,588 - ElementOperation - INFO - Positioned the element ('id', 'kw')[0].
+2019-06-12 01:35:12,795 - ElementOperation - INFO - SendKeys  -->  ('id', 'kw')[0] success
+2019-06-12 01:35:12,818 - ElementOperation - INFO - Positioned the element ('id', 'su')[0].
+2019-06-12 01:35:12,869 - ElementOperation - INFO - Click  -->  ('id', 'su')[0] success
+2019-06-12 01:35:13,861 - ElementOperation - INFO - Positioned the element ('class name', 'nums_text')[0].
+2019-06-12 01:35:13,925 - Baidu > Index - INFO - test_01_search --> Successed
+2019-06-12 01:35:14,077 - ElementOperation - INFO - Positioned the elements ('xpath', '//*[@id = "content_left"]//*[@class = "t"]').
+2019-06-12 01:35:14,216 - Baidu > Index - INFO - ['Python大法好 - 微信公众号:虾神daxialu(咨询问题请加) - CSDN博客', '专栏:Python大法好 - CSDN博客', 'Python大法好啊 - 简书', 'python大法好——面向对象 - null? - 博客园', 'python大法好,这些你可不要忽略了! - 云+社区 - 腾讯云', '如何理解python大法好_百度知道', 'python大法好——网络编程 - null? - 博客园', 'Python大法好', '如何理解python大法好?_百度知道']
+2019-06-12 01:35:14,233 - ElementOperation - INFO - Positioned the element ('id', 'kw')[0].
+2019-06-12 01:35:14,360 - ElementOperation - INFO - SendKeys  -->  ('id', 'kw')[0] success
+2019-06-12 01:35:14,376 - ElementOperation - INFO - Positioned the element ('id', 'su')[0].
+2019-06-12 01:35:14,407 - ElementOperation - INFO - Click  -->  ('id', 'su')[0] success
+2019-06-12 01:35:14,493 - ElementOperation - INFO - Positioned the elements ('xpath', '//*[@id = "content_left"]//*[@class = "t"]').
+2019-06-12 01:35:14,569 - ElementOperation - INFO - The text of the target element is "['Python大法好 - 微信公众号:虾神daxialu(咨询问题请加) - CSDN博客', '专栏:Python大法好 - CSDN博客', 'Python大法好啊 - 简书', 'python大法好——面向对象 - null? - 博客园', 'python大法好,这些你可不要忽略了! - 云+社区 - 腾讯云', '如何理解python大法好_百度知道', 'python大法好——网络编程 - null? - 博客园', 'Python大法好', '如何理解python大法好?_百度知道']",the actual text is "['Python大法好 - 微信公众号:虾神daxialu(咨询问题请加) - CSDN博客', '专栏:Python大法好 - CSDN博客', 'Python大法好啊 - 简书', 'python大法好——面向对象 - null? - 博客园', 'python大法好,这些你可不要忽略了! - 云+社区 - 腾讯云', '如何理解python大法好_百度知道', 'python大法好——网络编程 - null? - 博客园', 'Python大法好', '如何理解python大法好?_百度知道']"...
+Start matching>>>>>>
+2019-06-12 01:35:14,569 - ElementOperation - INFO - Sleep for 0.5 seconds
+2019-06-12 01:35:15,176 - ElementOperation - INFO - Positioned the elements ('xpath', '//*[@id = "content_left"]//*[@class = "t"]').
+2019-06-12 01:35:15,318 - ElementOperation - INFO - The text of the target element is "['Python大法好 - 微信公众号:虾神daxialu(咨询问题请加) - CSDN博客', '专栏:Python大法好 - CSDN博客', 'Python大法好啊 - 简书', 'python大法好——面向对象 - null? - 博客园', 'python大法好,这些你可不要忽略了! - 云+社区 - 腾讯云', '如何理解python大法好_百度知道', 'python大法好——网络编程 - null? - 博客园', 'Python大法好', '如何理解python大法好?_百度知道']",the actual text is "['人生苦短,我用Python?为什么Python这么火? - Python达人 - CSDN博客', 'Python崛起:“人生苦短,我用Python”并非一句戏言 - qq..._CSDN博客', '为何说人生苦短我用Python', '人生苦短,我用Python(目录) - 海燕。 - 博客园', '为什么说”人生苦短,我用python“? - IT。拾荒者 - 博客园', '人生苦短,我用Python或Java', '人生苦短,我用Python', '人生苦短,我用python! - 简书', '“人生苦短,我用Python” - 简书']"...
+Start matching>>>>>>
+2019-06-12 01:35:15,318 - ElementOperation - INFO - Matching success！
+2019-06-12 01:35:15,393 - ElementOperation - INFO - Positioned the elements ('xpath', '//*[@id = "content_left"]//*[@class = "t"]').
+2019-06-12 01:35:15,469 - Baidu > Index - INFO - ['人生苦短,我用Python?为什么Python这么火? - Python达人 - CSDN博客', 'Python崛起:“人生苦短,我用Python”并非一句戏言 - qq..._CSDN博客', '为何说人生苦短我用Python', '人生苦短,我用Python(目录) - 海燕。 - 博客园', '为什么说”人生苦短,我用python“? - IT。拾荒者 - 博客园', '人生苦短,我用Python或Java', '人生苦短,我用Python', '人生苦短,我用python! - 简书', '“人生苦短,我用Python” - 简书']
+2019-06-12 01:35:15,472 - Baidu > Index - INFO - test_02_search_retry --> Successed
+2019-06-12 01:35:20,900 - BrowserEngine - INFO - Starting Chrome browser.
+2019-06-12 01:35:24,877 - BrowserEngine - INFO - Open url: http://www.baidu.com/
+2019-06-12 01:35:24,878 - BrowserEngine - INFO - Maximize the current window.
+2019-06-12 01:35:24,879 - BrowserEngine - INFO - Set implicitly wait 2 seconds.
+2019-06-12 01:35:24,935 - ElementOperation - INFO - Positioned the element ('link text', '新闻')[0].
+2019-06-12 01:35:24,963 - ElementOperation - INFO - The text of the target element is "新闻",the actual text is "新闻"...
+Start matching>>>>>>
+2019-06-12 01:35:24,964 - ElementOperation - INFO - Matching success！
+2019-06-12 01:35:25,023 - ElementOperation - INFO - Positioned the element ('link text', '新闻')[0].
+2019-06-12 01:35:26,606 - ElementOperation - INFO - Click  -->  ('link text', '新闻')[0] success
+2019-06-12 01:35:28,672 - ElementOperation - ERROR - Failed to position the element ('link text', '新闻')[0]!
+2019-06-12 01:35:28,693 - ElementOperation - INFO - Positioned the element ('xpath', '//*[text()="国内"]')[0].
+2019-06-12 01:35:28,719 - ElementOperation - INFO - Positioned the element ('id', 'imgView')[0].
+2019-06-12 01:35:28,788 - ElementOperation - INFO - Click  -->  ('id', 'imgView')[0] success
+2019-06-12 01:35:28,818 - ElementOperation - INFO - Closing current window.
+2019-06-12 01:35:28,852 - Baidu > News - INFO - test_01_check_scroll_news --> Successed

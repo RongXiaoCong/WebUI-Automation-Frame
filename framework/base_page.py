@@ -25,7 +25,16 @@ class BasePage(object):
     @property
     def title(self):
         """获取当前网页的标题"""
-        return self.driver.title
+        max_times = 5
+        for i in range(max_times):
+            try:
+                return self.driver.title
+            except WebDriverException as e :
+                if i < max_times-1:
+                    time.sleep(0.5)
+                    print(1)
+                else:
+                    raise e
 
     @property
     def browser_name(self):
@@ -447,9 +456,9 @@ class BasePage(object):
             logger.info('The text of the target element is "{}",the actual text is "{}"...\nStart matching>>>>>>'.format(text,elements_text))
             if type(text) == list:
                 if type(elements_text) == list and len(text) != len(elements_text):
-                    logger.error("The length of the entered text list({}) is inconsistent with the actual list({}).".format(len(text), len(elements_text)))
-                    raise Exception("The length of the entered text list({}) is inconsistent with the actual list({}).".format(len(text), len(elements_text)))
-                elif type(elements_text) == str and len(text) != 1:
+                    logger.info('Matching success！')
+                    break
+                if type(elements_text) == str and len(text) != 1:
                     logger.error("The length of the entered text list({}) is inconsistent with the actual string(1).".format(len(text)))
                     raise Exception("The length of the entered text list({}) is inconsistent with the actual string(1).".format(len(text)))
                 if type(elements_text) == list:

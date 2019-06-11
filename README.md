@@ -14,6 +14,12 @@
 1.web自动化小白：帮助其迅速了解web自动化，并上手初步的自动化项目。  
 2.测试老司机：节省自己编写框架的时间，直接可用，省时省力，老少皆宜。  
 
+## 如何开始  ##
+1.安装必要的环境，诸如python3+,selenium
+2.下载合适的浏览器驱动，并放置在/tools文件夹下
+3.使用终端进入项目根目录，运行以下命令
+python TestRunner.py
+
 ## 框架目录构造： ##
 
 - **[config](https://github.com/RongXiaoCong/WebUI-Automation-Frame/tree/master/config)：**

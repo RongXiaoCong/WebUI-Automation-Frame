@@ -11,11 +11,11 @@ class Logger(object):
             将日志存入到指定的文件中
         '''
 
-        self.path = "../logs/"
+        self.path = os.path.join(os.path.dirname(os.path.dirname(__file__)),'logs')
 
         now_2d = time.strftime("%Y-%m-%d", time.localtime(time.time()))
         now_2s = time.strftime("%Y-%m-%d_%H_%M_%S", time.localtime(time.time()))
-        dir_path = self.path + now_2d
+        dir_path = os.path.join(self.path , now_2d)
         # 判断文件夹是否存在，不存在则创建
         if os.path.isdir(dir_path):
             pass
