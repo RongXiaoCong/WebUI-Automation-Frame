@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="193c85b6-86dc-4b61-b8db-7b6a909fd53a" name="Default Changelist" comment="更新readme" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/web_automation$Unittests_for_test_06_channel_type_mng_ChannelTypeMng_test_04_modify_company.coverage" NAME="Unittests for test_06_channel_type_mng.ChannelTypeMng.test_04_modify_company Coverage Results" MODIFIED="1554988100191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_xd_pay_mng" />
+    <SUITE FILE_PATH="coverage/web_automation$Unittests_for_test_06_channel_type_mng_ChannelTypeMng_test_01_add_channel_type.coverage" NAME="Unittests for test_06_channel_type_mng.ChannelTypeMng.test_01_add_channel_type Coverage Results" MODIFIED="1555038241430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_xd_pay_mng" />
+    <SUITE FILE_PATH="coverage/web_automation$test.coverage" NAME="test Coverage Results" MODIFIED="1552640573723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites" />
+    <SUITE FILE_PATH="coverage/web_automation$base_page.coverage" NAME="base_page Coverage Results" MODIFIED="1559471160057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/web_automation$logger.coverage" NAME="logger Coverage Results" MODIFIED="1559488926121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/web_automation$dddd.coverage" NAME="dddd Coverage Results" MODIFIED="1552477277627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_xd_pay_mng" />
+    <SUITE FILE_PATH="coverage/web_automation$Unittests_for_test_06_deposit_route_DepositRoute_test_09_delete_route.coverage" NAME="Unittests for test_06_deposit_route.DepositRoute.test_09_delete_route Coverage Results" MODIFIED="1555925487438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_xd_pay_mng" />
+    <SUITE FILE_PATH="coverage/web_automation$ConnectDataBase.coverage" NAME="ConnectDataBase Coverage Results" MODIFIED="1556614212260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/web_automation$auto_web.coverage" NAME="auto-web Coverage Results" MODIFIED="1559489472671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites" />
+    <SUITE FILE_PATH="coverage/web_automation$ReadConfig.coverage" NAME="ReadConfig Coverage Results" MODIFIED="1554973704011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/web_automation$ttttt.coverage" NAME="ttttt Coverage Results" MODIFIED="1555928540865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web-automation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base_page.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/framework/base_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="330" column="22" selection-start-line="330" selection-start-column="22" selection-end-line="330" selection-end-column="22" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptions.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Lib/site-packages/selenium/common/exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="287" column="53" selection-start-line="287" selection-start-column="48" selection-end-line="287" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="case_strategy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/case_strategy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectDataBase.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/ConnectDataBase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1098">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/ReadConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Lib/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18162">
+              <caret line="1011" column="8" selection-start-line="1011" selection-start-column="8" selection-end-line="1011" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_02_news.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_suites/test_baidu/test_02_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//tbody//td[6]/div</find>
+      <find>implici</find>
+      <find>list_type</find>
+      <find>setting_define</find>
+      <find>datetime</find>
+      <find>sql</find>
+      <find>list_setting</find>
+      <find>channel_info</find>
+      <find>open_</find>
+      <find>contains</find>
+      <find>memo</find>
+      <find>bank</find>
+      <find>test_data</find>
+      <find>self.xpm.find_element(self.xpm.t_toast_message)</find>
+      <find>self.bank</find>
+      <find>self.channel_data</find>
+      <find>yekong</find>
+      <find>fetch</find>
+      <find>close_current_window</find>
+      <find>time.sleep</find>
+      <find>WebDriverException</find>
+      <find>sleep</find>
+      <find>get_current_function</find>
+      <find>FIND_ELEMENTS</find>
+      <find>timeout</find>
+      <find>延时时间</find>
+      <find>find_elements</find>
+      <find>self.driver.find_element</find>
+      <find>find_element</find>
+      <find>click</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>next</replace>
+      <replace>xpdr</replace>
+      <replace>b_list_setting</replace>
+      <replace>xpds</replace>
+      <replace>except Exception as e:</replace>
+      <replace>raise e</replace>
+      <replace>internal_code</replace>
+      <replace>return_code</replace>
+      <replace />
+      <replace>self.meta_bank</replace>
+      <replace>self.channel</replace>
+      <replace>Quality</replace>
+      <replace>self.sleep</replace>
+      <replace>FIND_ELEMENTS</replace>
+      <replace>delay</replace>
+      <replace>延时</replace>
+      <replace>find_element</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/DepositRoute.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/ReturnCodeMng.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/BankMng.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/ChannelTypeMng.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_06_channel_type_mng.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_07_internal_code_mng.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_08_return_code_mng.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/InternalCodeMng.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/InternalCode.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/ReturnCode.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_01_deposit_seq.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_05_bank_mng.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/DepositChannel.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_02_deposit_channel.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/DepositBank.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_03_deposit_bank.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_04_deposit_route.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_06_channel_type.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/Common.py" />
+        <option value="$PROJECT_DIR$/framework/ttttt.py" />
+        <option value="$PROJECT_DIR$/pageobjects/XdPayMngPage/ChannelType.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_02_bank_mng.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_03_deposit_seq.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_04_deposit_channel.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_06_deposit_route.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_05_deposit_bank.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_07_internal_code.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_08_return_code.py" />
+        <option value="$PROJECT_DIR$/test_suites/README.md" />
+        <option value="$PROJECT_DIR$/pageobjects/README.md" />
+        <option value="$PROJECT_DIR$/framework/README.md" />
+        <option value="$PROJECT_DIR$/config/README.md" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_01_channel_type.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_xd_pay_mng/__init__.py" />
+        <option value="$PROJECT_DIR$/pageobjects/BaiDu/news.py" />
+        <option value="$PROJECT_DIR$/pageobjects/BaiDu/Index.py" />
+        <option value="$PROJECT_DIR$/framework/case_strategy.py" />
+        <option value="$PROJECT_DIR$/test_suites/TestRunner.py" />
+        <option value="$PROJECT_DIR$/framework/ConnectDataBase.py" />
+        <option value="$PROJECT_DIR$/framework/ReadConfig.py" />
+        <option value="$PROJECT_DIR$/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_baidu/test_01_index.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_baidu/__init__.py" />
+        <option value="$PROJECT_DIR$/test_suites/test_baidu/test_02_news.py" />
+        <option value="$PROJECT_DIR$/framework/logger.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/framework/base_page.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebUI-Automation-Frame-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI-Automation-Frame-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI-Automation-Frame-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI-Automation-Frame-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebUI-Automation-Frame-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebUI-Automation-Frame-master" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="sleep&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\web-automation\test_report" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\web-automation\test_suites\test_baidu" />
+      <recent name="E:\PycharmProjects\web-automation\pageobjects\BaiDu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.auto-web">
+    <configuration name="ConnectDataBase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/ConnectDataBase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="auto-web" type="PythonConfigurationType" factoryName="Python">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_suites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_suites/TestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="base_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/base_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ttttt" type="PythonConfigurationType" factoryName="Python">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/ttttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_report.test_xd_pay_mng.test_01_channel_type.ChannelTypeMng.test_01_add_channel_type" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_report/test_xd_pay_mng" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_report.test_xd_pay_mng.test_01_channel_type.ChannelTypeMng.test_01_add_channel_type&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_report.test_xd_pay_mng.test_06_deposit_route.DepositRoute.test_09_delete_route" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_report/test_xd_pay_mng" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_report.test_xd_pay_mng.test_06_deposit_route.DepositRoute.test_09_delete_route&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.auto-web" />
+      <item itemvalue="Python.ttttt" />
+      <item itemvalue="Python.ConnectDataBase" />
+      <item itemvalue="Python tests.Unittests for test_report.test_xd_pay_mng.test_01_channel_type.ChannelTypeMng.test_01_add_channel_type" />
+      <item itemvalue="Python tests.Unittests for test_report.test_xd_pay_mng.test_06_deposit_route.DepositRoute.test_09_delete_route" />
+      <item itemvalue="Python.base_page" />
+      <item itemvalue="Python.logger" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.base_page" />
+        <item itemvalue="Python.ConnectDataBase" />
+        <item itemvalue="Python tests.Unittests for test_report.test_xd_pay_mng.test_06_deposit_route.DepositRoute.test_09_delete_route" />
+        <item itemvalue="Python tests.Unittests for test_report.test_xd_pay_mng.test_01_channel_type.ChannelTypeMng.test_01_add_channel_type" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="193c85b6-86dc-4b61-b8db-7b6a909fd53a" name="Default Changelist" comment="。。" />
+      <created>1551844381596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551844381596</updated>
+      <workItem from="1551844382925" duration="33696000" />
+      <workItem from="1553173675856" duration="1549000" />
+      <workItem from="1553244577808" duration="72000" />
+      <workItem from="1553601160824" duration="69121000" />
+      <workItem from="1554886840645" duration="127439000" />
+      <workItem from="1556257103065" duration="681000" />
+      <workItem from="1556524354854" duration="5492000" />
+      <workItem from="1557843513477" duration="1358000" />
+      <workItem from="1557907958596" duration="319000" />
+      <workItem from="1558342207292" duration="1015000" />
+    </task>
+    <task id="LOCAL-00001" summary="优化readme">
+      <created>1555987819848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555987819849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新readme">
+      <created>1556005274056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556005274056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交测试">
+      <created>1552484185133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552484185134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交测试">
+      <created>1553174055598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553174055598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_06_channel_type_mng_ChannelTypeMng_test_04_modify_company - 2019.04.11 at 21h 08m 20s.xml">
+      <configuration name="Unittests for test_06_channel_type_mng.ChannelTypeMng.test_04_modify_company" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_06_channel_type_mng_ChannelTypeMng_test_01_add_channel_type - 2019.04.12 at 11h 04m 02s.xml">
+      <configuration name="Unittests for test_06_channel_type_mng.ChannelTypeMng.test_01_add_channel_type" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_06_deposit_route_DepositRoute_test_09_delete_route - 2019.04.22 at 17h 31m 11s.xml">
+      <configuration name="Unittests for test_06_deposit_route.DepositRoute.test_09_delete_route" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_06_deposit_route_DepositRoute_test_09_delete_route - 2019.04.22 at 17h 31m 22s.xml">
+      <configuration name="Unittests for test_06_deposit_route.DepositRoute.test_09_delete_route" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_06_deposit_route_DepositRoute_test_09_delete_route - 2019.04.22 at 17h 31m 27s.xml">
+      <configuration name="Unittests for test_06_deposit_route.DepositRoute.test_09_delete_route" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205804000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.2511628" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49928468" weight="0.32817337" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.2511628" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.26976743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.22768533" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50092083" side_tool="true" weight="0.2639485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30232558" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <MESSAGE value="优化readme" />
+    <MESSAGE value="更新readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>None</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/framework/ReadConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18162">
+          <caret line="1011" column="8" selection-start-line="1011" selection-start-column="8" selection-end-line="1011" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/test_baidu/test_02_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="162" column="28" lean-forward="true" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/test_xd_pay_mng/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_02_bank_mng.py" />
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/common/by.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="102" column="32" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19260">
+          <caret line="1083" column="26" selection-start-line="1083" selection-start-column="26" selection-end-line="1083" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/boto/sqs/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/pkgs/boto-2.48.0-py36h1a776d2_1/Lib/site-packages/boto/sqs/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/boto/ec2/instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="497" column="8" selection-start-line="497" selection-start-column="8" selection-end-line="497" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/pkgs/boto-2.48.0-py36h1a776d2_1/Lib/site-packages/boto/ec2/instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="497" column="8" selection-start-line="497" selection-start-column="8" selection-end-line="497" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/rope/base/pyobjects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2019-05-28/2019-05-28_23_38_38.log" />
+    <entry file="file://$PROJECT_DIR$/test_suites/test_xd_pay_mng/test_01_channel_type.py" />
+    <entry file="file://$PROJECT_DIR$/logs/2019-05-28/2019-05-28_23_41_08.log" />
+    <entry file="file://$PROJECT_DIR$/logs/2019-05-30/2019-05-30_22_09_21.log" />
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/urllib3/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-971">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="396" column="33" selection-start-line="396" selection-start-column="33" selection-end-line="396" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/XdPayMngPage.py" />
+    <entry file="file://$PROJECT_DIR$/testsuites/test_xd_pay_mng.py" />
+    <entry file="file://$PROJECT_DIR$/testsuites/README.md" />
+    <entry file="file://$PROJECT_DIR$/testsuites/TestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/pageobjects/BaiDu/news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2019-06-02/2019-06-02_19_18_13.log" />
+    <entry file="file://$PROJECT_DIR$/framework/HTMLTestReportCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="1260" selection-start-line="1260" selection-end-line="1260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/BaiDu/Index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/TestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1055" lean-forward="true" selection-start-line="1055" selection-end-line="1055" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="766" column="30" selection-start-line="766" selection-start-column="30" selection-end-line="766" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/test_baidu/test_01_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/test_baidu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_suites/test_baidu/test_02_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18162">
+          <caret line="1011" column="8" selection-start-line="1011" selection-start-column="8" selection-end-line="1011" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/case_strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/ConnectDataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/ReadConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/site-packages/selenium/common/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="287" column="53" selection-start-line="287" selection-start-column="48" selection-end-line="287" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="330" column="22" selection-start-line="330" selection-start-column="22" selection-end-line="330" selection-end-column="22" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
