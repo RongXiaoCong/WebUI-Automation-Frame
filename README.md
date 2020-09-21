@@ -31,7 +31,7 @@ python TestRunner.py
 	- *[base_page](https://github.com/RongXiaoCong/WebUI-Automation-Frame/blob/master/framework/base_page.py)*:封装了selenium库中常用的方法，包括定位，点击，输入，是否存在，等待等，是耗费了最多心力的类，本项目精华所在...
 	- *[browser_engine](https://github.com/RongXiaoCong/WebUI-Automation-Frame/blob/master/framework/browser_engine.py)*:通过读取配置文件去选择浏览器和url，并返回浏览器对象实例
     - *[ConnectDataBase](https://github.com/RongXiaoCong/WebUI-Automation-Frame/blob/master/framework/ConnectDataBase.py)*:封装了数据库的简单操作
-    - *[case_strategy](https://github.com/RongXiaoCong/WebUI-Automation-Frame/blob/master/framework/case_strategy.py)*:封装了数据库的简单操作
+    - *[case_strategy](https://github.com/RongXiaoCong/WebUI-Automation-Frame/blob/master/framework/case_strategy.py)*:封装了用例采集策略
 
 - **[logs](https://github.com/RongXiaoCong/WebUI-Automation-Frame/tree/master/logs)：**
 接收日志文件的输出
