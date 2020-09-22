@@ -1,0 +1,2 @@
+selenium==3.141.0
+PyMySQL==0.9.3
