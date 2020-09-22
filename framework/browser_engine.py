@@ -14,9 +14,9 @@ class BrowserEngine(object):
         self.driver = driver
         self.dir = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))  # 注意相对路径获取方法
         # windows的驱动程序后缀有exe
-        self.chrome_driver_path = self.dir + '/tools/chromedriver.exe'
+        # self.chrome_driver_path = self.dir + '/tools/chromedriver.exe'
         # mac的驱动程序后缀无exe
-        # self.chrome_driver_path = self.dir + '/tools/chromedriver'
+        self.chrome_driver_path = self.dir + '/tools/chromedriver'
 
     def open_browser(self, driver):
         # 读取配置

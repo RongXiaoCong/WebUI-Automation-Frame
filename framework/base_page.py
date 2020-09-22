@@ -248,6 +248,7 @@ class BasePage(object):
                     return False
             except WebDriverException as e:
                 if 'Failed to position' in e.msg:
+                    logger.info("The element {} has been gone.".format(locate))
                     return True
                 else:
                     raise e

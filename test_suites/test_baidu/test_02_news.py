@@ -39,15 +39,20 @@ class News(unittest.TestCase):
         self.news.wait_text(self.news.b_news, '新闻')
         self.news.click(self.news.b_news)
         self.news.wait_gone(self.news.b_news)
-        self.news.wait((By.XPATH, '//*[text()="国内"]'), displayed=False)
+        # title = self.news.title
         origin_handle = self.driver.current_window_handle
-        title = self.news.title
-        self.news.click(self.news.b_scroll_news)
         # 切换句柄，断言网页标题是否包含滚动新闻的标题
         for handle in self.driver.window_handles:
             if handle != origin_handle:
                 self.driver.switch_to_window(handle)
-                self.assertNotEqual(title, self.news.title)
+
+        self.news.wait((By.XPATH, '//*[text()="国内"]'), displayed=False)
+
+        self.news.click(self.news.b_scroll_news)
+        self.news.sleep(3)
+        # 这里关闭的是百度新闻首页，而非最后打开的新闻详情页，因为当前页面句柄对应百度新闻首页
         self.news.close()
+        # 这里又将句柄切换回百度首页（当前页面的新建/关闭页面不会修改当前句柄，修改当前句柄会切换当前页面）
         self.driver.switch_to.window(origin_handle)
+        self.news.sleep(3)
         logger.info(self.news.get_current_function() + ' --> Successed')
